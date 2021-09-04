@@ -1,0 +1,9 @@
+{
+	"ip":"ArnoxasGang.aternos.me",
+	"port": 25710,
+	"name": "afkbot1",
+	"auto-night-skip":"false",
+	"login-enabled":"true",
+	"register-cmd":"/register ArnoxasGang1122 ArnoxasGang1122",
+	"login-cmd":"/login ArnoxasGang1122"
+}
